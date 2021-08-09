@@ -1,6 +1,6 @@
 {
-  "name": "King-Userbot",
-  "description": "[King-Userbot] USERBOT TELEGRAM.",
+  "name": "Agil-UserBot",
+  "description": "[Agil-UserBot] USERBOT TELEGRAM.",
   "logo": "https://telegra.ph/file/632a843c5fbb0756e5b4e.jpg",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "python"
   ],
-  "repository": "https://github.com/apisuserbot/King-Userbot",
-  "telegram": "https://t.me/PacarFerdilla",
-  "success_url": "https://t.me/KingUserbotSupport",
+  "repository": "https://github.com/agilmaulanas/Agil-UserBot",
+  "telegram": "https://t.me/jangantagguabego",
+  "success_url": "https://t.me/chatinggroupindonesia",
   "stack": "container",
   "env": {
     "API_KEY": {
