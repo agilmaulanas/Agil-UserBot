@@ -23,9 +23,9 @@ Terimakasih telah menggunakan repository ini!
 </p>
 
 ![Repo Size](https://img.shields.io/github/repo-size/apisuserbot/King-Userbot?&style=plastic&logo=github)
-[![GitHub issues](https://img.shields.io/github/issues/apisuserbot/King-Userbot?&style=plastic&logo=github)](https://github.com/agilmaulanas/Agil-UserBot/issues)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/apisuserbot/King-Userbot?&style=plastic&logo=github)](https://github.com/agilmaulanas/Agil-UserBot/commit-activity)
-[![GitHub contributors](https://img.shields.io/github/contributors/apisuserbot/King-Userbot?&style=plastic&logo=github)](https://GitHub.com/agilmaulanas/Agil-UserBot/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/apisuserbot/King-Userbot?&style=plastic&logo=github)](https://github.com/apisuserbot/King-UserBot/issues)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/apisuserbot/King-Userbot?&style=plastic&logo=github)](https://github.com/apisuserbot/King-UserBot/commit-activity)
+[![GitHub contributors](https://img.shields.io/github/contributors/apisuserbot/King-Userbot?&style=plastic&logo=github)](https://GitHub.com/apisuserbot/King-UserBot/graphs/contributors/)
 <p align="center">
 
 <p align="center">
